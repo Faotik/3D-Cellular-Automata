@@ -2,7 +2,9 @@
 Simple 3D Cellular Automata implement via OpengGL compute shader.
 
 ## Preview
-![Demo](readme_resources/demo.png)
+<p align="center">
+  <img src="readme_resources/demo.png" alt="Demo Preview">
+</p>
 
 ## Run project
 ### Clone repo
